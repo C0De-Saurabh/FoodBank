@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: #EDF6E5;
+}
+
+
+.Authdiv{
+  display: flex ;
+  justify-content: end;
+}
+
+.qrcode{
+  margin-top: 15px;
+  height: 25vh;
+  width: 100%;
+  box-shadow: none;
+  object-fit: contain;
+}
+
+.car-img{
+  height: 25vh;
+  width: 100%;
+  box-shadow: none;
+  object-fit: contain;
+}
